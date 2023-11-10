@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_755237-MLA72075985122_102023-O.webp"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 1199,
+        "imgUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/macos-macbook-wallpaper.jpg?quality=82&strip=all"
+    },
+    {
+        "id": 3,
+        "name": "Onix",
+        "price": 9000,
+        "imgUrl": "https://diariodocomercio.com.br/wp-content/uploads/2023/05/onix-chevrolet-2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "208",
+        "price": 14000,
+        "imgUrl": "https://www.clarin.com/img/2022/11/07/VaujiUyy2_2000x1500__1.jpg"
+    }
+]
